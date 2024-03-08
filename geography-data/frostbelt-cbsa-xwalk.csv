@@ -1,0 +1,507 @@
+NAME,county_fips,state_usps,CBSAFP
+"Adrian, MI",091,MI,10300
+"Akron, OH",133,OH,10420
+"Akron, OH",153,OH,10420
+"Albany-Schenectady-Troy, NY",001,NY,10580
+"Albany-Schenectady-Troy, NY",083,NY,10580
+"Albany-Schenectady-Troy, NY",091,NY,10580
+"Albany-Schenectady-Troy, NY",093,NY,10580
+"Albany-Schenectady-Troy, NY",095,NY,10580
+"Albert Lea, MN",047,MN,10660
+"Alexandria, MN",041,MN,10820
+"Allentown-Bethlehem-Easton, PA-NJ",041,NJ,10900
+"Allentown-Bethlehem-Easton, PA-NJ",025,PA,10900
+"Allentown-Bethlehem-Easton, PA-NJ",077,PA,10900
+"Allentown-Bethlehem-Easton, PA-NJ",095,PA,10900
+"Alma, MI",057,MI,10940
+"Alpena, MI",007,MI,10980
+"Altoona, PA",013,PA,11020
+"Amsterdam, NY",057,NY,11220
+"Angola, IN",151,IN,11420
+"Ann Arbor, MI",161,MI,11460
+"Appleton, WI",015,WI,11540
+"Appleton, WI",087,WI,11540
+"Ashland, OH",005,OH,11740
+"Athens, OH",009,OH,11900
+"Auburn, IN",033,IN,12140
+"Auburn, NY",011,NY,12180
+"Augusta-Waterville, ME",011,ME,12300
+"Austin, MN",099,MN,12380
+"Bangor, ME",019,ME,12620
+"Baraboo, WI",111,WI,12660
+"Barre, VT",023,VT,12740
+"Batavia, NY",037,NY,12860
+"Battle Creek, MI",025,MI,12980
+"Bay City, MI",017,MI,13020
+"Beaver Dam, WI",027,WI,13180
+"Bedford, IN",093,IN,13260
+"Bellefontaine, OH",091,OH,13340
+"Bemidji, MN",007,MN,13420
+"Bennington, VT",003,VT,13540
+"Big Rapids, MI",107,MI,13660
+"Binghamton, NY",007,NY,13780
+"Binghamton, NY",107,NY,13780
+"Bismarck, ND",015,ND,13900
+"Bismarck, ND",059,ND,13900
+"Bismarck, ND",065,ND,13900
+"Bloomington, IL",113,IL,14010
+"Bloomington, IN",105,IN,14020
+"Bloomington, IN",119,IN,14020
+"Bloomsburg-Berwick, PA",037,PA,14100
+"Bradford, PA",083,PA,14620
+"Brainerd, MN",021,MN,14660
+"Brainerd, MN",035,MN,14660
+"Buffalo-Cheektowaga, NY",029,NY,15380
+"Buffalo-Cheektowaga, NY",063,NY,15380
+"Burlington, IA-IL",071,IL,15460
+"Burlington, IA-IL",057,IA,15460
+"Burlington-South Burlington, VT",007,VT,15540
+"Burlington-South Burlington, VT",011,VT,15540
+"Burlington-South Burlington, VT",013,VT,15540
+"Cadillac, MI",113,MI,15620
+"Cadillac, MI",165,MI,15620
+"Cambridge, OH",059,OH,15740
+"Canton-Massillon, OH",019,OH,15940
+"Canton-Massillon, OH",151,OH,15940
+"Cape Girardeau, MO-IL",003,IL,16020
+"Cape Girardeau, MO-IL",017,MO,16020
+"Cape Girardeau, MO-IL",031,MO,16020
+"Celina, OH",107,OH,16380
+"Centralia, IL",121,IL,16460
+"Champaign-Urbana, IL",019,IL,16580
+"Champaign-Urbana, IL",053,IL,16580
+"Champaign-Urbana, IL",147,IL,16580
+"Charleston-Mattoon, IL",029,IL,16660
+"Chillicothe, OH",141,OH,17060
+"Cincinnati, OH-KY-IN",029,IN,17140
+"Cincinnati, OH-KY-IN",047,IN,17140
+"Cincinnati, OH-KY-IN",115,IN,17140
+"Cincinnati, OH-KY-IN",015,KY,17140
+"Cincinnati, OH-KY-IN",023,KY,17140
+"Cincinnati, OH-KY-IN",037,KY,17140
+"Cincinnati, OH-KY-IN",077,KY,17140
+"Cincinnati, OH-KY-IN",081,KY,17140
+"Cincinnati, OH-KY-IN",117,KY,17140
+"Cincinnati, OH-KY-IN",191,KY,17140
+"Cincinnati, OH-KY-IN",015,OH,17140
+"Cincinnati, OH-KY-IN",017,OH,17140
+"Cincinnati, OH-KY-IN",025,OH,17140
+"Cincinnati, OH-KY-IN",061,OH,17140
+"Cincinnati, OH-KY-IN",165,OH,17140
+"Coldwater, MI",023,MI,17740
+"Columbus, IN",005,IN,18020
+"Columbus, OH",041,OH,18140
+"Columbus, OH",045,OH,18140
+"Columbus, OH",049,OH,18140
+"Columbus, OH",073,OH,18140
+"Columbus, OH",089,OH,18140
+"Columbus, OH",097,OH,18140
+"Columbus, OH",117,OH,18140
+"Columbus, OH",127,OH,18140
+"Columbus, OH",129,OH,18140
+"Columbus, OH",159,OH,18140
+"Concord, NH",013,NH,18180
+"Connersville, IN",041,IN,18220
+"Corning, NY",101,NY,18500
+"Cortland, NY",023,NY,18660
+"Coshocton, OH",031,OH,18740
+"Crawfordsville, IN",107,IN,18820
+"Danville, IL",183,IL,19180
+"Davenport-Moline-Rock Island, IA-IL",073,IL,19340
+"Davenport-Moline-Rock Island, IA-IL",131,IL,19340
+"Davenport-Moline-Rock Island, IA-IL",161,IL,19340
+"Davenport-Moline-Rock Island, IA-IL",163,IA,19340
+"Decatur, IL",115,IL,19500
+"Decatur, IN",001,IN,19540
+"Defiance, OH",039,OH,19580
+"Detroit-Warren-Dearborn, MI",163,MI,19820
+"Detroit-Warren-Dearborn, MI",087,MI,19820
+"Detroit-Warren-Dearborn, MI",093,MI,19820
+"Detroit-Warren-Dearborn, MI",099,MI,19820
+"Detroit-Warren-Dearborn, MI",125,MI,19820
+"Detroit-Warren-Dearborn, MI",147,MI,19820
+"Dickinson, ND",007,ND,19860
+"Dickinson, ND",025,ND,19860
+"Dickinson, ND",089,ND,19860
+"Dixon, IL",103,IL,19940
+"DuBois, PA",033,PA,20180
+"Duluth, MN-WI",017,MN,20260
+"Duluth, MN-WI",137,MN,20260
+"Duluth, MN-WI",031,WI,20260
+"East Stroudsburg, PA",089,PA,20700
+"Eau Claire, WI",017,WI,20740
+"Eau Claire, WI",035,WI,20740
+"Effingham, IL",035,IL,20820
+"Effingham, IL",049,IL,20820
+"Elkhart-Goshen, IN",039,IN,21140
+"Elmira, NY",015,NY,21300
+"Erie, PA",049,PA,21500
+"Escanaba, MI",041,MI,21540
+"Fairmont, MN",091,MN,21860
+"Fargo, ND-MN",027,MN,22020
+"Fargo, ND-MN",017,ND,22020
+"Faribault-Northfield, MN",131,MN,22060
+"Fergus Falls, MN",111,MN,22260
+"Findlay, OH",063,OH,22300
+"Flint, MI",049,MI,22420
+"Fond du Lac, WI",039,WI,22540
+"Fort Wayne, IN",003,IN,23060
+"Fort Wayne, IN",179,IN,23060
+"Fort Wayne, IN",183,IN,23060
+"Frankfort, IN",023,IN,23140
+"Freeport, IL",177,IL,23300
+"Fremont, OH",143,OH,23380
+"Galesburg, IL",095,IL,23660
+"Gettysburg, PA",001,PA,23900
+"Glens Falls, NY",113,NY,24020
+"Glens Falls, NY",115,NY,24020
+"Gloversville, NY",035,NY,24100
+"Grand Forks, ND-MN",119,MN,24220
+"Grand Forks, ND-MN",035,ND,24220
+"Grand Rapids, MN",061,MN,24330
+"Green Bay, WI",009,WI,24580
+"Green Bay, WI",061,WI,24580
+"Green Bay, WI",083,WI,24580
+"Greensburg, IN",031,IN,24700
+"Greenville, OH",037,OH,24820
+"Harrisburg-Carlisle, PA",041,PA,25420
+"Harrisburg-Carlisle, PA",043,PA,25420
+"Harrisburg-Carlisle, PA",099,PA,25420
+"Hillsdale, MI",059,MI,25880
+"Holland, MI",005,MI,26090
+"Houghton, MI",061,MI,26340
+"Houghton, MI",083,MI,26340
+"Hudson, NY",021,NY,26460
+"Huntingdon, PA",061,PA,26500
+"Huntington, IN",069,IN,26540
+"Huntington-Ashland, WV-KY-OH",019,KY,26580
+"Huntington-Ashland, WV-KY-OH",043,KY,26580
+"Huntington-Ashland, WV-KY-OH",089,KY,26580
+"Huntington-Ashland, WV-KY-OH",127,KY,26580
+"Huntington-Ashland, WV-KY-OH",087,OH,26580
+"Huntington-Ashland, WV-KY-OH",011,WV,26580
+"Huntington-Ashland, WV-KY-OH",079,WV,26580
+"Huntington-Ashland, WV-KY-OH",099,WV,26580
+"Hutchinson, MN",085,MN,26780
+"Indiana, PA",063,PA,26860
+"Iron Mountain, MI-WI",043,MI,27020
+"Iron Mountain, MI-WI",037,WI,27020
+"Ithaca, NY",109,NY,27060
+"Jackson, MI",075,MI,27100
+"Jacksonville, IL",137,IL,27300
+"Jacksonville, IL",171,IL,27300
+"Jamestown, ND",093,ND,27420
+"Janesville-Beloit, WI",105,WI,27500
+"Jasper, IN",037,IN,27540
+"Johnstown, PA",021,PA,27780
+"Kalamazoo-Portage, MI",077,MI,28020
+"Kankakee, IL",091,IL,28100
+"Keene, NH",005,NH,28300
+"Kendallville, IN",113,IN,28340
+"Kingston, NY",111,NY,28740
+"Kokomo, IN",067,IN,29020
+"Laconia, NH",001,NH,29060
+"La Crosse-Onalaska, WI-MN",055,MN,29100
+"La Crosse-Onalaska, WI-MN",063,WI,29100
+"La Crosse-Onalaska, WI-MN",123,WI,29100
+"Lafayette-West Lafayette, IN",007,IN,29200
+"Lafayette-West Lafayette, IN",015,IN,29200
+"Lafayette-West Lafayette, IN",157,IN,29200
+"Lafayette-West Lafayette, IN",171,IN,29200
+"Lancaster, PA",071,PA,29540
+"Lansing-East Lansing, MI",037,MI,29620
+"Lansing-East Lansing, MI",045,MI,29620
+"Lansing-East Lansing, MI",065,MI,29620
+"Lebanon, PA",075,PA,30140
+"Lewisburg, PA",119,PA,30260
+"Lewiston-Auburn, ME",001,ME,30340
+"Lewistown, PA",087,PA,30380
+"Lima, OH",003,OH,30620
+"Lincoln, IL",107,IL,30660
+"Lock Haven, PA",035,PA,30820
+"Logansport, IN",017,IN,30900
+"Louisville/Jefferson County, KY-IN",019,IN,31140
+"Louisville/Jefferson County, KY-IN",043,IN,31140
+"Louisville/Jefferson County, KY-IN",061,IN,31140
+"Louisville/Jefferson County, KY-IN",175,IN,31140
+"Louisville/Jefferson County, KY-IN",029,KY,31140
+"Louisville/Jefferson County, KY-IN",103,KY,31140
+"Louisville/Jefferson County, KY-IN",111,KY,31140
+"Louisville/Jefferson County, KY-IN",163,KY,31140
+"Louisville/Jefferson County, KY-IN",179,KY,31140
+"Louisville/Jefferson County, KY-IN",185,KY,31140
+"Louisville/Jefferson County, KY-IN",211,KY,31140
+"Louisville/Jefferson County, KY-IN",215,KY,31140
+"Ludington, MI",105,MI,31220
+"Macomb, IL",109,IL,31380
+"Madison, IN",077,IN,31500
+"Madison, WI",021,WI,31540
+"Madison, WI",025,WI,31540
+"Madison, WI",045,WI,31540
+"Madison, WI",049,WI,31540
+"Manchester-Nashua, NH",011,NH,31700
+"Manitowoc, WI",071,WI,31820
+"Mankato, MN",013,MN,31860
+"Mankato, MN",103,MN,31860
+"Mansfield, OH",139,OH,31900
+"Marietta, OH",167,OH,31930
+"Marinette, WI-MI",109,MI,31940
+"Marinette, WI-MI",075,WI,31940
+"Marion, IN",053,IN,31980
+"Marion, OH",101,OH,32020
+"Marquette, MI",103,MI,32100
+"Marshall, MN",083,MN,32140
+"Meadville, PA",039,PA,32740
+"Menomonie, WI",033,WI,32860
+"Michigan City-La Porte, IN",091,IN,33140
+"Midland, MI",111,MI,33220
+"Milwaukee-Waukesha, WI",079,WI,33340
+"Milwaukee-Waukesha, WI",089,WI,33340
+"Milwaukee-Waukesha, WI",131,WI,33340
+"Milwaukee-Waukesha, WI",133,WI,33340
+"Minneapolis-St. Paul-Bloomington, MN-WI",003,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",019,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",025,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",037,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",053,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",059,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",079,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",095,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",123,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",139,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",141,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",163,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",171,MN,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",093,WI,33460
+"Minneapolis-St. Paul-Bloomington, MN-WI",109,WI,33460
+"Minot, ND",049,ND,33500
+"Minot, ND",075,ND,33500
+"Minot, ND",101,ND,33500
+"Monroe, MI",115,MI,33780
+"Mount Pleasant, MI",073,MI,34380
+"Mount Vernon, IL",081,IL,34500
+"Mount Vernon, OH",083,OH,34540
+"Muncie, IN",035,IN,34620
+"New Castle, IN",065,IN,35220
+"New Philadelphia-Dover, OH",157,OH,35420
+"New Ulm, MN",015,MN,35580
+"Niles, MI",021,MI,35660
+"Norwalk, OH",077,OH,35940
+"Oil City, PA",121,PA,36340
+"Olean, NY",009,NY,36460
+"Oneonta, NY",077,NY,36580
+"Oshkosh-Neenah, WI",139,WI,36780
+"Ottawa, IL",011,IL,36837
+"Ottawa, IL",099,IL,36837
+"Ottawa, IL",155,IL,36837
+"Owatonna, MN",147,MN,36940
+"Paducah, KY-IL",127,IL,37140
+"Paducah, KY-IL",007,KY,37140
+"Paducah, KY-IL",039,KY,37140
+"Paducah, KY-IL",139,KY,37140
+"Paducah, KY-IL",145,KY,37140
+"Peoria, IL",123,IL,37900
+"Peoria, IL",143,IL,37900
+"Peoria, IL",175,IL,37900
+"Peoria, IL",179,IL,37900
+"Peoria, IL",203,IL,37900
+"Peru, IN",103,IN,37940
+"Pittsburgh, PA",003,PA,38300
+"Pittsburgh, PA",005,PA,38300
+"Pittsburgh, PA",007,PA,38300
+"Pittsburgh, PA",019,PA,38300
+"Pittsburgh, PA",051,PA,38300
+"Pittsburgh, PA",073,PA,38300
+"Pittsburgh, PA",125,PA,38300
+"Pittsburgh, PA",129,PA,38300
+"Pittsfield, MA",003,MA,38340
+"Platteville, WI",043,WI,38420
+"Plattsburgh, NY",019,NY,38460
+"Plymouth, IN",099,IN,38500
+"Pontiac, IL",105,IL,38700
+"Portsmouth, OH",145,OH,39020
+"Pottsville, PA",107,PA,39060
+"Quincy, IL-MO",001,IL,39500
+"Quincy, IL-MO",111,MO,39500
+"Reading, PA",011,PA,39740
+"Red Wing, MN",049,MN,39860
+"Richmond, IN",177,IN,39980
+"Rochelle, IL",141,IL,40300
+"Rochester, MN",039,MN,40340
+"Rochester, MN",045,MN,40340
+"Rochester, MN",109,MN,40340
+"Rochester, MN",157,MN,40340
+"Rochester, NY",051,NY,40380
+"Rochester, NY",055,NY,40380
+"Rochester, NY",069,NY,40380
+"Rochester, NY",073,NY,40380
+"Rochester, NY",117,NY,40380
+"Rockford, IL",007,IL,40420
+"Rockford, IL",201,IL,40420
+"Rutland, VT",021,VT,40860
+"Saginaw, MI",145,MI,40980
+"St. Cloud, MN",009,MN,41060
+"St. Cloud, MN",145,MN,41060
+"St. Louis, MO-IL",005,IL,41180
+"St. Louis, MO-IL",013,IL,41180
+"St. Louis, MO-IL",027,IL,41180
+"St. Louis, MO-IL",083,IL,41180
+"St. Louis, MO-IL",117,IL,41180
+"St. Louis, MO-IL",119,IL,41180
+"St. Louis, MO-IL",133,IL,41180
+"St. Louis, MO-IL",163,IL,41180
+"St. Louis, MO-IL",071,MO,41180
+"St. Louis, MO-IL",099,MO,41180
+"St. Louis, MO-IL",113,MO,41180
+"St. Louis, MO-IL",183,MO,41180
+"St. Louis, MO-IL",189,MO,41180
+"St. Louis, MO-IL",219,MO,41180
+"St. Louis, MO-IL",510,MO,41180
+"St. Marys, PA",047,PA,41260
+"Salem, OH",029,OH,41400
+"Sandusky, OH",043,OH,41780
+"Sandusky, OH",123,OH,41780
+"Sault Ste. Marie, MI",033,MI,42300
+"Sayre, PA",015,PA,42380
+"Scranton--Wilkes-Barre, PA",069,PA,42540
+"Scranton--Wilkes-Barre, PA",079,PA,42540
+"Scranton--Wilkes-Barre, PA",131,PA,42540
+"Selinsgrove, PA",109,PA,42780
+"Seneca Falls, NY",099,NY,42900
+"Seymour, IN",071,IN,42980
+"Shawano, WI",078,WI,43020
+"Shawano, WI",115,WI,43020
+"Sheboygan, WI",117,WI,43100
+"Sidney, OH",149,OH,43380
+"Somerset, PA",111,PA,43740
+"South Bend-Mishawaka, IN-MI",141,IN,43780
+"South Bend-Mishawaka, IN-MI",027,MI,43780
+"Springfield, IL",129,IL,44100
+"Springfield, IL",167,IL,44100
+"Springfield, MA",013,MA,44140
+"Springfield, OH",023,OH,44220
+"State College, PA",027,PA,44300
+"Sterling, IL",195,IL,44580
+"Sturgis, MI",149,MI,44780
+"Sunbury, PA",093,PA,44980
+"Sunbury, PA",097,PA,44980
+"Syracuse, NY",053,NY,45060
+"Syracuse, NY",067,NY,45060
+"Syracuse, NY",075,NY,45060
+"Taylorville, IL",021,IL,45380
+"Terre Haute, IN",021,IN,45460
+"Terre Haute, IN",153,IN,45460
+"Terre Haute, IN",165,IN,45460
+"Terre Haute, IN",167,IN,45460
+"Tiffin, OH",147,OH,45660
+"Toledo, OH",051,OH,45780
+"Toledo, OH",095,OH,45780
+"Toledo, OH",173,OH,45780
+"Traverse City, MI",019,MI,45900
+"Traverse City, MI",055,MI,45900
+"Traverse City, MI",079,MI,45900
+"Traverse City, MI",089,MI,45900
+"Trenton-Princeton, NJ",021,NJ,45940
+"Urbana, OH",021,OH,46500
+"Utica-Rome, NY",043,NY,46540
+"Utica-Rome, NY",065,NY,46540
+"Van Wert, OH",161,OH,46780
+"Vincennes, IN",083,IN,47180
+"Wabash, IN",169,IN,47340
+"Wahpeton, ND-MN",167,MN,47420
+"Wahpeton, ND-MN",077,ND,47420
+"Wapakoneta, OH",011,OH,47540
+"Warren, PA",123,PA,47620
+"Warsaw, IN",085,IN,47700
+"Washington, IN",027,IN,47780
+"Washington Court House, OH",047,OH,47920
+"Watertown-Fort Atkinson, WI",055,WI,48020
+"Watertown-Fort Drum, NY",045,NY,48060
+"Weirton-Steubenville, WV-OH",081,OH,48260
+"Weirton-Steubenville, WV-OH",009,WV,48260
+"Weirton-Steubenville, WV-OH",029,WV,48260
+"Wheeling, WV-OH",013,OH,48540
+"Wheeling, WV-OH",051,WV,48540
+"Wheeling, WV-OH",069,WV,48540
+"Williamsport, PA",081,PA,48700
+"Williston, ND",105,ND,48780
+"Willmar, MN",067,MN,48820
+"Wilmington, OH",027,OH,48940
+"Winona, MN",169,MN,49100
+"Wisconsin Rapids-Marshfield, WI",141,WI,49220
+"Wooster, OH",169,OH,49300
+"Worthington, MN",105,MN,49380
+"York-Hanover, PA",133,PA,49620
+"Zanesville, OH",119,OH,49780
+"Berlin, NH",007,NH,13620
+"Bucyrus-Galion, OH",033,OH,15340
+"Buffalo-Cheektowaga, NY",029,NY,15380
+"Buffalo-Cheektowaga, NY",063,NY,15380
+"Dayton-Kettering, OH",057,OH,19430
+"Dayton-Kettering, OH",109,OH,19430
+"Dayton-Kettering, OH",113,OH,19430
+"Fairmont, MN",091,MN,21860
+"Grand Rapids, MN",061,MN,24330
+"Grand Rapids-Kentwood, MI",015,MI,24340
+"Grand Rapids-Kentwood, MI",067,MI,24340
+"Grand Rapids-Kentwood, MI",081,MI,24340
+"Grand Rapids-Kentwood, MI",117,MI,24340
+"Grand Rapids-Kentwood, MI",139,MI,24340
+"Lebanon, NH-VT",017,VT,30100
+"Lebanon, NH-VT",027,VT,30100
+"Lebanon, NH-VT",009,NH,30100
+"Lebanon, NH-VT",019,NH,30100
+"Mankato, MN",013,MN,31860
+"Mankato, MN",103,MN,31860
+"Milwaukee-Waukesha, WI",079,WI,33340
+"Milwaukee-Waukesha, WI",133,WI,33340
+"Milwaukee-Waukesha, WI",131,WI,33340
+"Milwaukee-Waukesha, WI",089,WI,33340
+"Niles, MI",021,MI,35660
+"Ottawa, IL",011,IL,36837
+"Ottawa, IL",099,IL,36837
+"Ottawa, IL",155,IL,36837
+"Poughkeepsie-Newburgh-Middletown, NY",027,NY,39100
+"Poughkeepsie-Newburgh-Middletown, NY",071,NY,39100
+"St. Marys, PA",047,PA,41260
+"Scottsburg, IN",143,IN,42500
+"Stevens Point, WI",097,WI,44620
+"Wausau-Weston, WI",069,WI,48140
+"Wausau-Weston, WI",073,WI,48140
+"Whitewater, WI",127,WI,48580
+"Berlin, NH",007,NH,13620
+"Bucyrus-Galion, OH",033,OH,15340
+"Buffalo-Cheektowaga, NY",029,NY,15380
+"Buffalo-Cheektowaga, NY",063,NY,15380
+"Dayton-Kettering, OH",057,OH,19430
+"Dayton-Kettering, OH",109,OH,19430
+"Dayton-Kettering, OH",113,OH,19430
+"Fairmont, MN",091,MN,21860
+"Grand Rapids, MN",061,MN,24330
+"Grand Rapids-Kentwood, MI",015,MI,24340
+"Grand Rapids-Kentwood, MI",067,MI,24340
+"Grand Rapids-Kentwood, MI",081,MI,24340
+"Grand Rapids-Kentwood, MI",117,MI,24340
+"Grand Rapids-Kentwood, MI",139,MI,24340
+"Lebanon, NH-VT",017,VT,30100
+"Lebanon, NH-VT",027,VT,30100
+"Lebanon, NH-VT",009,NH,30100
+"Lebanon, NH-VT",019,NH,30100
+"Mankato, MN",013,MN,31860
+"Mankato, MN",103,MN,31860
+"Milwaukee-Waukesha, WI",079,WI,33340
+"Milwaukee-Waukesha, WI",133,WI,33340
+"Milwaukee-Waukesha, WI",131,WI,33340
+"Milwaukee-Waukesha, WI",089,WI,33340
+"Niles, MI",021,MI,35660
+"Ottawa, IL",011,IL,36837
+"Ottawa, IL",099,IL,36837
+"Ottawa, IL",155,IL,36837
+"Poughkeepsie-Newburgh-Middletown, NY",027,NY,39100
+"Poughkeepsie-Newburgh-Middletown, NY",071,NY,39100
+"St. Marys, PA",047,PA,41260
+"Scottsburg, IN",143,IN,42500
+"Stevens Point, WI",097,WI,44620
+"Wausau-Weston, WI",069,WI,48140
+"Wausau-Weston, WI",073,WI,48140
+"Whitewater, WI",127,WI,48580
